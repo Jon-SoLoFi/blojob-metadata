@@ -1,0 +1,15 @@
+{
+  "name": "Blojob",
+  "symbol": "BLOJOB",
+  "description": "BLOJOB is Solana's most unhinged meme token built for those who prefer their pumps massive, their dips short, and their liquidity nice and tight. With a legendary 69,000,000,000 supply, BLOJOB is for goons that aren't afraid to dump their whole load into something. Smooth entry, reckless thrusts toward ATH, and a CumUnity that goes hard until someone busts the charts wide open. Not financial advice — just a very hands-on experience. We don't just hold, we goon to the moon.",
+  "image": "https://raw.githubusercontent.com/Jon-SoLoFi/blojob-metadata/main/blojob.png",
+  "external_url": "",
+  "attributes": [
+    { "trait_type": "Max Degeneracy", "value": "69%" },
+    { "trait_type": "Pump Style", "value": "Goon to the Moon" },
+    { "trait_type": "Load Size", "value": "69000000000" }
+  ],
+  "extensions": {
+    "telegram": "https://t.me/BLOJOBCumUnity"
+  }
+}
